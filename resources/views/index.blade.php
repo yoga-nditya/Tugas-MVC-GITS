@@ -7,7 +7,7 @@
     <title>MSIB</title>
 </head>
 <body>
-    <p>Nama : {{$user}}</p>
+    <p>Data : {{$user}}</p>
 
     <table style="width:100%">
     <?php $i = 1;?>

@@ -9,7 +9,7 @@ class UserController extends Controller
 {
     public function index()
     {
-        $data['user'] = "yoga";
+        $data['user'] = "users";
 
         $data['modelUser'] = User::all();
 
